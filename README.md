@@ -4,7 +4,7 @@ This project contains a sample music store database used for SQL practice and an
 ## 🗂️ Contents
 - `CreateTableQueries.sql` – Contains all `CREATE TABLE` statements
 - `ImportQueries.sql` – Contains all `COPY` statements to import CSVs
-- `CSVDataFiles/` – Folder containing all CSV files
+- `data/` – Folder containing all CSV files
 
 ## 📦 How to Set Up
 1. Clone the repo  
