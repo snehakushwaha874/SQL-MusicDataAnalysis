@@ -2,9 +2,9 @@
 This project contains a sample music store database used for SQL practice and analysis, implemented using PostgreSQL. The dataset includes customers, artists, employees, invoices, genres, playlists, and more.
 
 ## 🗂️ Contents
-- `schema.sql` – Contains all `CREATE TABLE` statements
-- `import.sql` – Contains all `COPY` statements to import CSVs
-- `data/` – Folder containing all CSV files
+- `CreateTableQueries.sql` – Contains all `CREATE TABLE` statements
+- `ImportQueries.sql` – Contains all `COPY` statements to import CSVs
+- `CSVDataFiles/` – Folder containing all CSV files
 
 ## 📦 How to Set Up
 1. Clone the repo  
